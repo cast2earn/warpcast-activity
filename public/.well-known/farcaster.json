@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEwNDk4MDEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg2QUFiYTk1MkJlODY5RkE2YjgyRjk5NTVmODYxQjBFODBkYThhMmM2In0",
+    "payload": "eyJkb21haW4iOiJ3d3cuY2FzdDJlYXJuLmZ1biJ9",
+    "signature": "MHhjNTQ1M2YzODhjMTBiMzc5MTRhNDQ1MjZkZDlkNjJmNDJjNjljOWEyNzc3Y2ZkMGUyMmU2M2ZlMTNhZTUwNGRkMjViOWM2ZmYzMTlhNDljNjQwMDQwMTEyMDIwYmVkNTM5MjhhZWIxYzE3YTk1NjQwNThjMDM4MDNkN2RkMjdmNzFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Cast To Earn",
+    "iconUrl": "https://www.cast2earn.fun/icon.png",
+    "homeUrl": "https://www.cast2earn.fun",
+    "imageUrl": "https://www.cast2earn.fun/image.png",
+    "buttonTitle": "View My Activity",
+    "splashImageUrl": "https://www.cast2earn.fun/splash.png",
+    "splashBackgroundColor": "#0052FF",
+    "webhookUrl": "https://api.neynar.com/f/app/da095b16-2980-4f80-90a0-b4578173fd1b/event"
+  }
+}
